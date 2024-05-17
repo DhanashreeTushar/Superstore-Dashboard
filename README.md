@@ -1,7 +1,6 @@
 # Superstore Analytics
 
-### Dashboard Link : https://public.tableau.com/app/profile/dhanashree.joshi3565/viz/CapstoneProjectHealthcare_17077189324200/Healthcare
-
+### Dashboard Link : https://public.tableau.com/app/profile/dhanashree.joshi3565/viz/Capstoneforsuperstoredata/SalesDashboard
 ## Problem Statement
 
 
