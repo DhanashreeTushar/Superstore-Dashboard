@@ -4,7 +4,7 @@
 ## Problem Statement
 
 
-The Superstore Sales Performance Capstone Project aims to create a comprehensive Tableau dashboard to analyze and visualize sales data from the Sample Superstore dataset. The project requires connecting to the dataset and building a dashboard that provides insights into various aspects of sales performance.
+The Superstore Sales Performance Capstone Project aims to create a comprehensive Tableau dashboard to analyze and visualize sales data from the Superstore dataset. The project requires connecting to the dataset and building a dashboard that provides insights into various aspects of sales performance.
 
 ## Objectives
 
